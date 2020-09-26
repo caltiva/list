@@ -1,0 +1,24 @@
+{
+   "name":"CMC DeFi",
+   "timestamp":"2020-08-25T12:00:15+00:00",
+   "keywords":[
+      "coinmarketcap",
+      "defi"
+   ],
+   "version":{
+      "major":0,
+      "minor":0,
+      "patch":0
+   },
+   "tokens":[
+      {
+         "chainId":1,
+         "address":"0x963B61e618709c8Fa1356FB57ebB4C1298352f5D",
+         "symbol":"BLND",
+         "name":"Blonde",
+         "decimals":18
+      },
+     
+   ],
+   "logoURI":"ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx"
+}
