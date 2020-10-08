@@ -17,6 +17,13 @@
          "symbol":"BLND",
          "name":"Blonde",
          "decimals":18
+      },
+       {
+         "chainId":1,
+         "address":"0xedfbd6c48c3ddff5612ade14b45bb19f916809ba",
+         "symbol":"RUGZ",
+         "name":"pulltherug",
+         "decimals":18
       }
    ],
    "logoURI":"ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx"
